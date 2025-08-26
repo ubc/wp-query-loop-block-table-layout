@@ -1,6 +1,8 @@
 # WP Query Loop block extension - Table Layout
 This plugin adds table layout support to the WP Query Loop block. Turn unordered lists into a real HTML table on the frontend.
 
+Documentation available at [https://cms.ubc.ca/support/cms-manual/list-of-blocks/wp-query-loop-block-extension-table-layout/](https://cms.ubc.ca/support/cms-manual/list-of-blocks/wp-query-loop-block-extension-table-layout/).
+
 ## Available CSS Variables
 
 ```css
